@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1677135f88573c34480c9335030944e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MarchingShader: {fileID: 7200000, guid: 7e1a62d522d8e134f8e1747a64b6333a, type: 3}
+  - MeshFilter: {instanceID: 0}
+  - NoiseGenerator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
